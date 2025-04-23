@@ -99,7 +99,7 @@ Explora el lore, analiza los personajes y descubre las pistas ocultas de esta en
 
 ---
 
-### Desarrollado con ❤️ para **Campers Wallet**
+### Desarrollado con ❤️ para **Resumen Pelicula**
 
 ### 📄 Creado por:
 - 👨‍💻 **Daniel Santiago Vinasco**
